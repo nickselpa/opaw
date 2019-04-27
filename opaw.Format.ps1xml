@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Stubbed for future use.  Project does not return custom objects to format -->
+<!-- See https://msdn.microsoft.com/en-us/library/dd878339(v=vs.85).aspx -->
+<!-- for more information on how to build this file -->
+<Configuration>
+  <ViewDefinitions>
+  </ViewDefinitions>
+</Configuration>
